@@ -1,0 +1,67 @@
+
+
+ul{
+	list-style-type:none
+}
+
+.rectangle{
+	background:red;
+	text-align:left;
+	float:left;
+	width:170px;
+	height:453px;
+	border: black;
+}
+
+h2{
+	margin:0;
+	padding:0;
+}
+
+.main{
+	margin: 0;
+	padding:0;
+	float:right;
+	width: 80%;
+}
+
+img{
+	width:81px;
+	height:75px;
+
+}
+
+.boxes{
+	border-color:black;
+	font-weight:bold;
+}
+
+.box1{
+	background:grey;
+	width:180px;
+	height:168px;
+	float:right;
+	padding:3%;
+	margin:3%;
+
+}
+
+.box2{
+	
+	background:grey;
+	width:180px;
+	height:168px;
+	float:right;
+	padding:3%;
+	margin:3%;
+}
+
+.box3{
+	background:grey;
+	width:180px;
+	height:168px;
+	float:right;
+	padding:3%;
+	margin:3%;
+}
+	
